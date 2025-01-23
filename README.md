@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on a very secret project<br>👯 I’m looking to collaborate on weather app<br>🤝 I’m looking for help with Claude AI<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on a very secret project<br>👯 I’m looking to collaborate on new app<br>🤝 I’m looking for help with Claude AI<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
 # 💻 Tech Stack:
