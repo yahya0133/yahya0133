@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on FREELANCE<br>👯 I’m looking to collaborate on new app<br>🤝 I’m looking for help with Claude AI<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on FREELANCE<br>👯 I’m looking to collaborate on REACT APP <br>🤝 I’m looking for help with Claude AI<br>🌱 I’m currently learning<br>💬 Ask me about MERN<br>⚡ Fun fact I think i'm funny and serious
 
 
 # 💻 Tech Stack:
